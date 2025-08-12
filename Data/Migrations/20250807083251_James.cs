@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace EmployeeApplicatoin.Data.Migrations
+namespace StudentLogInIceTask.Data.Migrations
 {
     /// <inheritdoc />
     public partial class James : Migration

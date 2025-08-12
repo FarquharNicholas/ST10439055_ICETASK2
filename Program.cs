@@ -1,8 +1,8 @@
-using EmployeeApplicatoin.Data;
+using StudentLogInIceTask.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace EmployeeApplicatoin
+namespace StudentLogInIceTask
 {
     public class Program
     {
@@ -16,7 +16,7 @@ namespace EmployeeApplicatoin
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<Models.UserInformation>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddDefaultIdentity<StudentLogInIceTask.Models.UserInformation>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
 
@@ -37,6 +37,7 @@ namespace EmployeeApplicatoin
             app.UseHttpsRedirection();
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapStaticAssets();

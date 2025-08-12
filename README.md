@@ -1,4 +1,4 @@
-# Employee Application - Identity System Enhancement
+# StudentLogInIceTask - Identity System Enhancement
 
 ## Overview
 This project has been enhanced to collect additional user information during registration. Users now register with their Qualification and Module in addition to the existing fields.

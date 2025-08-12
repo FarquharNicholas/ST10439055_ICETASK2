@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using EmployeeApplicatoin.Models;
+using StudentLogInIceTask.Models;
 
-namespace EmployeeApplicatoin.Data
+namespace StudentLogInIceTask.Data
 {
     public class ApplicationDbContext : IdentityDbContext<UserInformation>
     {

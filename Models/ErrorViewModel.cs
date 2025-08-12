@@ -1,4 +1,4 @@
-namespace EmployeeApplicatoin.Models
+namespace StudentLogInIceTask.Models
 {
     public class ErrorViewModel
     {

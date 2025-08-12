@@ -12,11 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-EmployeeApplicatoin-54520e5f-0cfa-4b88-9913-8c95115baaea")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-StudentLogInIceTask-54520e5f-0cfa-4b88-9913-8c95115baaea")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeApplicatoin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6061ac227e4c78968ade929c4db13252a71d28f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeeApplicatoin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeeApplicatoin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

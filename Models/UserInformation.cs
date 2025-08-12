@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace EmployeeApplicatoin.Models
+namespace StudentLogInIceTask.Models
 {
     public class UserInformation : IdentityUser
     {

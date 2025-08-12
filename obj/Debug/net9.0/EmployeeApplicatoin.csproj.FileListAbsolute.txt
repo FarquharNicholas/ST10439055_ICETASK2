@@ -298,3 +298,5 @@ C:\Users\nicho\Desktop\Code\EmployeeApplicatoin\obj\Debug\net9.0\refint\Employee
 C:\Users\nicho\Desktop\Code\EmployeeApplicatoin\obj\Debug\net9.0\EmployeeApplicatoin.pdb
 C:\Users\nicho\Desktop\Code\EmployeeApplicatoin\obj\Debug\net9.0\EmployeeApplicatoin.genruntimeconfig.cache
 C:\Users\nicho\Desktop\Code\EmployeeApplicatoin\obj\Debug\net9.0\ref\EmployeeApplicatoin.dll
+C:\Users\nicho\Desktop\Code\EmployeeApplicatoin\obj\Debug\net9.0\EmployeeApplicatoin.sourcelink.json
+C:\Users\nicho\Desktop\Code\EmployeeApplicatoin\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

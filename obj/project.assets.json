@@ -5171,9 +5171,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\Desktop\\Code\\EmployeeApplicatoin\\EmployeeApplicatoin.csproj",
-      "projectName": "EmployeeApplicatoin",
-      "projectPath": "C:\\Users\\nicho\\Desktop\\Code\\EmployeeApplicatoin\\EmployeeApplicatoin.csproj",
+      "projectUniqueName": "C:\\Users\\nicho\\Desktop\\Code\\EmployeeApplicatoin\\StudentLogInIceTask.csproj",
+      "projectName": "StudentLogInIceTask",
+      "projectPath": "C:\\Users\\nicho\\Desktop\\Code\\EmployeeApplicatoin\\StudentLogInIceTask.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nicho\\Desktop\\Code\\EmployeeApplicatoin\\obj\\",
       "projectStyle": "PackageReference",

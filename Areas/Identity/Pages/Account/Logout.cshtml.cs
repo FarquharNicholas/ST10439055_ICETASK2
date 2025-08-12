@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using EmployeeApplicatoin.Models;
+using StudentLogInIceTask.Models;
 
-namespace EmployeeApplicatoin.Areas.Identity.Pages.Account
+namespace StudentLogInIceTask.Areas.Identity.Pages.Account
 {
     public class LogoutModel : PageModel
     {

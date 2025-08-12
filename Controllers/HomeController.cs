@@ -1,10 +1,10 @@
 using System.Diagnostics;
-using EmployeeApplicatoin.Models;
+using StudentLogInIceTask.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 
-namespace EmployeeApplicatoin.Controllers
+namespace StudentLogInIceTask.Controllers
 {
     public class HomeController : Controller
     {

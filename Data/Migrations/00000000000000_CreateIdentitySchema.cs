@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace EmployeeApplicatoin.Data.Migrations
+namespace StudentLogInIceTask.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
